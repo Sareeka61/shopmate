@@ -17,7 +17,7 @@ export const ProductList = () => {
           <p className="name">{product.name}</p>
           <p className="info">
             <span className="price">${product.price}</span>
-            <span className={product.in_stock ? "instock": "unavailable"}>{product.in_stock}</span>
+            <span className={product.in_stock ? "instock" : "unavailable"}>{product.in_stock ? "instock" : "unavailable"}</span>
           </p>
         </div>
       ))}

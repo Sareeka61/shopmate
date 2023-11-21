@@ -53,7 +53,7 @@ h1{
 .card .instock {
   background-color: #06a02d;
   font-size: 16px;
-  color: #000;
+  color: #fff;
   border-radius: 5px;
   padding: 5px;
   display: inline;
@@ -62,7 +62,7 @@ h1{
 .card .unavailable {
   background-color: #a00620;
   font-size: 16px;
-  color: #000;
+  color: #fff;
   border-radius: 5px;
   padding: 5px;
   display: inline;
