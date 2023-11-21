@@ -1,0 +1,22 @@
+{
+    "products": [
+        {
+            "id": 10001,
+            "name": "Basics to advanced in react",
+            "price": 29,
+            "in_stock": true
+        },
+        {
+            "id": 10002,
+            "name": "Basics to advanced in C",
+            "price": 39,
+            "in_stock": false
+        },
+        {
+            "id": 10003,
+            "name": "Basics to advanced in python",
+            "price": 17,
+            "in_stock": true
+        }
+    ]
+}
