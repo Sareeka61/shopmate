@@ -87,3 +87,10 @@ button.onlyStock {
 button.all {
   background-color: #065ba0;
 }
+
+.filter {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100%;
+}
